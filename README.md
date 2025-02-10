@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FedorAlec
 - 👀 I’m interested in programming and sports
-- 🌱 I’m currently learning Laravel and Flutter
+- 🌱 I’m currently learning Laravel
+- I'm good in Flutter
 
 <!---
 Fedaldo/Fedaldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
