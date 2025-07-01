@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FedorAlec
-- 👀 I’m interested in tech and sports
-- 🌱 I’m currently learning Python
-- I'm good at Flutter
+- 👋 Hi, I’m Alec Fedor Budomo
+- 👀 I’m interested in trending tech📈 and sports ⚽️🏀🥊🏊🏾
+- 📍 Located in Berlin 🇩🇪
+- 🫱🏻‍🫲🏾 Team Player
