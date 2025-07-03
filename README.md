@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alec Fedor Budomo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+Developer;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer;Full+Stack+Developer;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
