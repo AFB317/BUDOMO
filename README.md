@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alec Budomo</h1>
+<h1 align="center">Hi 👋, I'm Alec Fedor Budomo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer;Full+Stack+Developer;Mobile+App+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+Developer;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,11 +42,7 @@
 
 ---
 
-### 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AFB317&theme=default" alt="GitHub Streak" />
-</p>
+### 📊 **GitHub**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFB317&layout=compact&theme=default" alt="Top languages" />
