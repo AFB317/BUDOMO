@@ -11,7 +11,7 @@
 - 📍 **Based in Berlin, Germany 🇩🇪**  
 - 🔭 I’m currently working on **Duma Taxi**    
 - 👯 I’m looking to collaborate on **Flutter, PHP/Laravel, Python, and Kotlin projects**  
-- 💬 Ask me about **Flutter, PHP, Kotlin, Python, Google Firebase, Google Maps, and Mobile App Development (iOS & Android)**  
+- 💬 Ask me about **Flutter, PHP, Kotlin, Python, Google Firebase, Google Maps, JavaScript, and Mobile App Development (iOS & Android)**  
 - ⚡ Fun fact: *I love building real-life solutions through mobile apps for my community.*
 
 ---
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
