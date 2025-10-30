@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 📍 **Based in Berlin, Germany 🇩🇪**  
-- 🔭 I’m currently working on **Duma Taxi**    
+- 🔭 I’m currently working as a Freelancer and at Afriregister as a part-time    
 - 👯 I’m looking to collaborate on **Flutter, PHP/Laravel, Python, and Kotlin projects**  
 - 💬 Ask me about **Flutter, PHP, Kotlin, Python, Google Firebase, Google Maps, JavaScript, and Mobile App Development (iOS & Android)**  
 - ⚡ Fun fact: *I love building real-life solutions through mobile apps for my community.*
